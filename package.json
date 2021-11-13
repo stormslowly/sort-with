@@ -1,9 +1,9 @@
 {
   "name": "sort-with",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "a expressive utils to do sort",
   "author": "Chris Hager <chris@linuxuser.at>",
-  "repository": "https://github.com/metachris/typescript-boilerplate",
+  "repository": "https://github.com/stormslowly/sort-with",
   "license": "MIT",
   "keywords": [
     "sort",
